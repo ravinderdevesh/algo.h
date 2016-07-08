@@ -1,6 +1,9 @@
-This is a directory where I will implement basic data structures and algorithms from scratch.
+**ALGO.H**
 
-Linked lists
-Queue
-Stack
-Vector
+This aims to be a library for users to use data structures from.
+
+Data structures implemented:
+
+1. Linked lists
+2. Vector*
+3. BST*
